@@ -1,4 +1,4 @@
-name: eufy-security-ws PR975 Test
+name: Eufy Security WS PR975 PATCH Mounir
 description: Fix for Eufy "No devices found" and API code 200 using eufy-security-client PR 975
 version: 3.1.0-pr975.1
 slug: "eufy_security_ws_pr975"
